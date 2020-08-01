@@ -2,3 +2,7 @@ The kernel is what connects the system hardware to the application software.
 The kendel is found in every type of operationg system.
 It is what loads first when turning on a compuret and stays in the main memory.
 We don't want the kendle to be overwritten by other programs, so it is loaded into a protected part of the memory.
+Operating systems include a couple of power options.
+I will only talk about the Sleep mode.
+The Sleep mode stops all actions, and saves any open documents into the RAM.
+Sleep mode puts the computer into a low-power state.
